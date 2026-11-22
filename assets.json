@@ -1,0 +1,20 @@
+[
+    {
+        "assetnum": "PUMP1001",
+        "description": "Water Pump",
+        "age": 12,
+        "status": "OPERATING"
+    },
+    {
+        "assetnum": "MOTOR1002",
+        "description": "Electric Motor",
+        "age": 5,
+        "status": "OPERATING"
+    },
+    {
+        "assetnum": "GEN1003",
+        "description": "Generator",
+        "age": 15,
+        "status": "DOWN"
+    }
+]
