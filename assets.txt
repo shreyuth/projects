@@ -1,0 +1,3 @@
+asset_name,motor
+asset_age,8
+asset_number,67890

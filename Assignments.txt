@@ -1,0 +1,17 @@
+MAS9 upgradation
+Integrate MAS with Python as external system
+Customize how many messages are failed and how many are received
+Move error messages to error queue
+Acknowledge SAP after successful processing of messages
+Maximo AI EAM Specialist
+AI-powered Maximo troubleshooting assistant
+Integrate integration failure to AI (ChatGPT) and print the RCA, Remidy for the error occoured.
+Create AI agent to convert Java Customization to Autoscript without changing the business logic
+User exit auto script
+MIF on itself
+Integrate autoscript with VSCode
+Logic to Send email
+Call API from automation script
+
+
+python -m PyInstaller --onefile MeterReadings.py
